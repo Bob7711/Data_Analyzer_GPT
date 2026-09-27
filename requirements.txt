@@ -1,0 +1,8 @@
+autogen-agentchat>=0.7.5
+autogen-ext[openai,docker]>=0.7.5
+streamlit>=1.46
+pandas>=2.2
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.13
+python-dotenv>=1.0
